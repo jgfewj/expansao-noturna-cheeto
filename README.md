@@ -1,4 +1,4 @@
-
+https://res.cloudinary.com/dcwnwmtgc/raw/upload/v${Math.floor
 # Expansão Noturna Cheeto
 
 Outro script de automatização de tarefas, dessa vez pra platafroma expansão noturna :P
